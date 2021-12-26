@@ -1,31 +1,36 @@
 Liked it? Please give a ⭐️ to build this 💪 stronger.
 # 👋 Introduction
 <p align="center">
-    <a href="https://tryshape.vercel.app" target="blank"/>
+    <a href="https://kuleafenu.medium.com/how-to-improve-your-chances-of-getting-a-mortgage-loan-50df90796c45" target="blank"/>
         <img src="./images/mortgage.png" alt="Plot" />
     </a>
 </p>
 
-`Project Goal`: Analysing 10 thousand medium posts to derive insights on how to tweak your article to earn more claps from your readers.
+`Project Goal`:we will perform Data Exploration to discover the main factors affecting applicant’s mortgage loan approval rate using python by asking the right questions.
 
 # 💻 Published on medium
 Please read all the insights from my medium page.
-> [What I discovered after analysing over 10,000 medium posts](https://medium.com/analytics-vidhya/what-i-discovered-after-analyzing-10-000-medium-posts-with-python-bb012c6e004b)
+> [How to improve your chances of getting a Mortgage Loan](https://kuleafenu.medium.com/how-to-improve-your-chances-of-getting-a-mortgage-loan-50df90796c45)
 
 
 # 🔥 What you will learn
-- Data gathering.
-- Data preprocessing
-- Exploratory Analysis
-- Data Visualization
-- ,etc
-
+- Understanding the concept of Mortgage.
+- Setting up Environment
+- Knowing your Data, features and labels
+- Exploratory Data Analysis with python
+- Conclusion
 
 ## 🔢 Information Summary
-- About the dataset in use.
-- Summary statistical report on data.
-- Answering the 9 most pressing questions.
-- Conclusion.
+- Credit history and Debt-to-income ratio emerged as the principal factor in securing a loan, hence applicants should maintain a good - - debt-to-income ratio and also build good credit history.
+- Unfortunately, it turned out that high-income earners have an edge over the lower-income group. So you may consider taking a high-income job though it’s not a major requirement.
+- In choosing the property, make sure your median income is higher than the median neighborhood income of where the property is located.
+- Choose to buy a multifamily dwelling. Don’t apply for a loan to buy manufactured housing since that has a very low rate of mortgage approval.
+- Apply for FSA/RHS loans. It has a relatively high chance of loan approval over the rest types.
+- Consider getting a Home loan in King County.
+- Apply for a loan to purchase a house; a Home Purchase loan has a significant approval rate.
+- If you want a 100% rate of approval for your loan, then, apply for HOEPA loans.
+- Secure your loan through the first lien.
+- Black or African Amerian has a good chance of applying with a white American, Asian or Native Hawaiian.
 
 # 🏗️ How to reproduce the project
 You can run this code locally with a few easy steps.
