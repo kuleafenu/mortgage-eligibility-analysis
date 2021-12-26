@@ -45,14 +45,14 @@ https://github.com/kuleafenu/exploratory-data-analyisis-on-medium-post.git
 
 2. Install dependencies
 
-```bash
-pip install pandas
-pip install numpy
-pip install seaborn
-pip install nltk
-```
+* [NumPy](http://www.numpy.org/)
+* [IPython](http://ipython.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [SciKit-Learn](http://scikit-learn.org/stable/)
+* [Matplotlib](http://matplotlib.org/)
 
-3. Open the `main.ipynb` and run the cells.
+
+3. Open the the notebook file and run the cells.
 
 # 🛡️ License
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
